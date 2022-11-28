@@ -1,7 +1,7 @@
 
 <img src="https://getwallpapers.com/wallpaper/full/d/e/3/1172815-full-size-developer-wallpaper-hd-1980x1080-1080p.jpg" style=" width:600px ; height:400px margin-left:50%"  >
 
-<h1> <i><em>Bonjour WORLD!!</em></i> 🔥🔥 </h1>
+<h1> <i><em>BONJOUR WORLD!!</em></i> 🔥🔥 </h1>
 
 
 **AtharvaBhatnagar/AtharvaBhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
