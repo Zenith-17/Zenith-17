@@ -8,9 +8,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...College Projects
-- 🌱 I’m currently learning ...Block chain and web3
-- 👯 I’m looking to collaborate on ...Web based or Blockchain based projects
+- 🔭 I’m currently working on ...Navjeevan
+- 🌱 I’m currently learning ...React
+- 👯 I’m looking to collaborate on ...Web based projects
 - 📫 How to reach me: ...atharva17.ab@gmail.com
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...What did C++ code call a C code? You have no class.
@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="60" src="https://tse2.mm.bing.net/th?id=OIP.MyPdAgLtyvjUOS6ZRmiVnAAAAA&pid=Api&P=0"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="60" src="https://miro.medium.com/max/828/1*XP-mZOrIqX7OsFInN2ngRQ.webp"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
