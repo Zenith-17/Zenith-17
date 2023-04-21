@@ -68,7 +68,6 @@
             alt="webpack" width="100" height="100" /> 
         </a> </p>
 </div>
-<br>
 <h1>📈 GitHub Stats </h1>
 
 [![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaBhatnagar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AtharvaBhatnagar/github-readme-stats)
