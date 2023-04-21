@@ -1,15 +1,14 @@
 
-<img src="https://getwallpapers.com/wallpaper/full/d/e/3/1172815-full-size-developer-wallpaper-hd-1980x1080-1080p.jpg" style=" width:600px ; height:400px margin-left:50%"  >
+![](https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47l3zr0orzyugaxwpjyn72gyaay28owjaziwaijafr&rid=giphy.gif)
 
 <h1> <i><em>NAMASTE WORLD!!</em></i> 🔥🔥 </h1>
 
-- 🔭 I’m currently working on ...Navjeevan
-- 🌱 I’m currently learning ...React
-- 👯 I’m looking to collaborate on ...Web based projects
-- 📫 How to reach me: ... https://www.linkedin.com/in/atharvabhatnagar
-- 😄 Pronouns: ...HE/HIM
-- ⚡ Fun fact: ...What did C++ code call a C code? You have no class.
-
+- 🔭 I’m currently working on ... Navjeevan
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... Web based projects
+- 😄 Pronouns: ... HE/HIM
+- ⚡ Fun fact: ... What did C++ code call a C code? You have no class.
+- 📫 How to reach me: [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvabhatnagar/)&nbsp;
 
 [![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaBhatnagar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AtharvaBhatnagar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaBhatnagar)](https://github.com/AtharvaBhatnagar/github-readme-stats)
