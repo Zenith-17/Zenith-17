@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Navjeevan
 - 🌱 I’m currently learning ...React
 - 👯 I’m looking to collaborate on ...Web based projects
-- 📫 How to reach me: ...atharva17.ab@gmail.com
+- 📫 How to reach me: ... https://www.linkedin.com/in/atharvabhatnagar
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...What did C++ code call a C code? You have no class.
 
