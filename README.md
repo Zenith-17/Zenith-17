@@ -1,22 +1,22 @@
 
 ![](https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47l3zr0orzyugaxwpjyn72gyaay28owjaziwaijafr&rid=giphy.gif)
 <br><br>
-<h1> <i><em>NAMASTE WORLD!!</em></i> 🔥🔥 </h1>
-<br>
-🔭 I’m currently working on **Navjeevan**
+<h2> <i><em>NAMASTE WORLD!!</em></i> 🔥🔥 </h2>
+<h2>Hi👋🏻 <i>There! I'm Atharva.<i/> <br><br>
+ I'm a Frontend Developer 💻 and  Dsa Instructor 📚 !</h2>
+            <h2>🔭 I’m currently working on </h2>
+           <ul>
+    <li>My Personal Projects</li>
+    <li>Navjeevan :Smart Healthcare Ecosystem Infra (Working on it soon...)</li>
+    <li>My Design Thinking Skills</li>
+</ul>
 
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on **Web based Projects**
-
-- 📫 How to reach me **atharva17.ab@gmail.com**
-
-- ⚡ Fun fact **What did C++ code call a C code? You have no class.**
-<br>
-
-[![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaBhatnagar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AtharvaBhatnagar/github-readme-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaBhatnagar&theme=radical)](https://github.com/AtharvaBhatnagar/github-readme-stats)
+<h2>🌱 I'm currently learning</h2>
+<ul>
+    <li>React Native</li>
+    <li>Nodejs</li>
+    <li>MongoDB</li>
+</ul>
 
 
 <h2 align="left"><i><b>Languages and Tools:</b></i></h2><br>
@@ -69,3 +69,16 @@
             alt="webpack" width="100" height="100" /> 
         </a> </p>
 </div>
+<br>
+<h1>📈 GitHub Stats </h1>
+
+[![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaBhatnagar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AtharvaBhatnagar/github-readme-stats)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaBhatnagar&theme=radical)](https://github.com/AtharvaBhatnagar/github-readme-stats)
+
+<h2 align="left">🤝 Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharvabhatnagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharvabhatnagar/" height="30" width="40" /></a> &nbsp&nbsp
+ <a href="https://twitter.com/https://twitter.com/atharvab1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/atharvab1717" height="30" width="40" /></a>
+</p>
+<ul><li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li></ul>
