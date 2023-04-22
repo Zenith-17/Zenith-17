@@ -4,7 +4,7 @@
  I'm a Frontend Developer 💻 and  Dsa Instructor 📚 !</h2>
             <h2>🔭 I’m currently working on </h2>
            <ul>
-    <li>My Personal Projects</li>
+    <li>Personal Projects</li>
     <li>Navjeevan :Smart Healthcare Ecosystem Infra (Working on it soon...)</li>
     <li>My Design Thinking Skills</li>
 </ul>
