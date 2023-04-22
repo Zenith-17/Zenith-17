@@ -17,8 +17,6 @@
 </ul>
 
 <h2 align="left"><i><b>Languages and Tools:</b></i></h2><br>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="100" height="100" /> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="100" height="100" /> </a> 
