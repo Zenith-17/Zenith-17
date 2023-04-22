@@ -5,8 +5,8 @@
             <h2>🔭 I’m currently working on </h2>
            <ul>
     <li>Personal Projects</li>
-    <li>Navjeevan :Smart Healthcare Ecosystem Infra (Working on it soon...)</li>
-    <li>My Design Thinking Skills</li>
+    <li>Navjeevan :Smart Healthcare Ecosystem Infra (Imminent....)</li>
+    <li>Design Thinking Skills</li>
 </ul>
 
 <h2>🌱 I'm currently learning</h2>
