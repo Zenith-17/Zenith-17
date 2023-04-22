@@ -1,6 +1,4 @@
-
-![](https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47l3zr0orzyugaxwpjyn72gyaay28owjaziwaijafr&rid=giphy.gif)
-<br><br>
+![GitHub_Hello, my name is atharva](https://user-images.githubusercontent.com/99113156/233770432-10551b00-c47e-4020-9a1c-97c0a1915d12.png)
 <h2> <i><em>NAMASTE WORLD!!</em></i> 🚀🚀 </h2>
 <h2>Hi👋🏻 <i>There! I'm Atharva.<i/> <br><br>
  I'm a Frontend Developer 💻 and  Dsa Instructor 📚 !</h2>
