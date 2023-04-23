@@ -62,9 +62,9 @@
 </div>
 <h1>📈 GitHub Stats </h1>
 
-[![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=AtharvaBhatnagar&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AtharvaBhatnagar/github-readme-stats)
+[![Atharva's github stats](https://github-readme-stats.vercel.app/api?username=Zenith-17&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AtharvaBhatnagar/github-readme-stats)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaBhatnagar&theme=radical)](https://github.com/AtharvaBhatnagar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenith-17&theme=radical)](https://github.com/AtharvaBhatnagar/github-readme-stats)
 
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
