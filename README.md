@@ -14,6 +14,7 @@
     <li>React Native</li>
     <li>Nodejs</li>
     <li>MongoDB</li>
+    <li>Java</li>
 </ul>
 
 <h2 align="left"><i><b>Languages and Tools:</b></i></h2><br>
