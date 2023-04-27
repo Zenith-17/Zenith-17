@@ -14,6 +14,8 @@
     <li>React Native</li>
     <li>Nodejs</li>
     <li>MongoDB</li>
+    <li>Nextjs</li>
+    <li>Threejs</li>
     <li>Java</li>
 </ul>
 
