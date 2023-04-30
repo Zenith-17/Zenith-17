@@ -12,11 +12,12 @@
 <h2>🌱 I'm currently learning</h2>
 <ul>
     <li>React Native</li>
+     <li>Nextjs</li>
+    <li>GraphQL</li>
+    <li>Java</li>
     <li>Nodejs</li>
     <li>MongoDB</li>
-    <li>Nextjs</li>
-    <li>Threejs</li>
-    <li>Java</li>
+   
 </ul>
 
 <h2 align="left"><i><b>Languages and Tools:</b></i></h2><br>
