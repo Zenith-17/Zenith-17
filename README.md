@@ -15,7 +15,7 @@
      <li>Nextjs</li>
     <li>GraphQL</li>
     <li>Java</li>
-    <li>Nodejs</li>
+    <li>Spring Boot</li>
     <li>MongoDB</li>
    
 </ul>
