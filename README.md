@@ -13,7 +13,6 @@
 <ul>
     <li>React Native</li>
      <li>Nextjs</li>
-    <li>GraphQL</li>
     <li>Java</li>
     <li>Spring Boot</li>
     <li>MongoDB</li>
