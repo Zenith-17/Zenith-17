@@ -13,8 +13,8 @@
 <ul>
     <li>React Native</li>
      <li>Nextjs</li>
-    <li>Java</li>
-    <li>Spring Boot</li>
+    <li>Algorithms</li>
+    <li>Authentication</li>
     <li>MongoDB</li>
    
 </ul>
