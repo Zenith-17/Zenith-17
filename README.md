@@ -69,10 +69,11 @@
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenith-17&theme=radical)](https://github.com/AtharvaBhatnagar/github-readme-stats)
 
+[![An image of @zenith17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zenith17)](https://holopin.io/@zenith17)
+
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atharvabhatnagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharvabhatnagar/" height="30" width="40" /></a> &nbsp&nbsp
  <a href="https://twitter.com/https://twitter.com/atharvab1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/atharvab1717" height="30" width="40" /></a>
 </p>
-[![An image of @zenith17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zenith17)](https://holopin.io/@zenith17)
 <ul><li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li></ul>
